@@ -1,0 +1,8 @@
+Model,Accuracy,Precision,Recall,F1 Score,Training Time(hrs),Inference Time(ms/sentence)
+BERT,0.85,0.86,0.84,0.85,24 ,2
+RoBERTa,0.87,0.88,0.86,0.87,28 ,2.5
+XLNet,0.86,0.87,0.85,0.86,36 ,3
+ALBERT,0.84,0.85,0.83,0.84,20 ,1.5
+DistilBERT,0.82,0.83,0.81,0.82,12 ,1
+Electra,0.86,0.87,0.85,0.86,30 ,3
+T5,0.88,0.89,0.87,0.88,40 ,4
